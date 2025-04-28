@@ -1,0 +1,29 @@
+.customBG-color{
+    background-color: rgb(39, 96, 84);
+    color: white;
+}
+.customWhite{
+    color: white;
+
+}
+.customLink:link{
+    text-decoration: none;
+    color: white;
+
+}
+.footerUL{
+    list-style-type: none;
+    font-size: larger;
+
+}
+.footerLI{
+    margin-bottom: 15px;
+    padding-left: 10px;
+
+}
+.footerLI::before{
+    content: '--';
+}
+.customLink:hover{
+    color: rgb(17, 40, 35);
+}
