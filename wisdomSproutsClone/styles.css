@@ -1,5 +1,5 @@
 .customBG-color{
-    background-color: rgb(39, 96, 84);
+    background-color: #276054;
     color: white;
 }
 .customWhite{
@@ -11,6 +11,10 @@
     color: white;
 
 }
+.customCoroImg{
+    height: 500px;
+}
+
 .footerUL{
     list-style-type: none;
     font-size: larger;
